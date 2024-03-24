@@ -113,7 +113,7 @@ width: 20px;
 .social-section img{
 width: 20px;
 height: 20px;
-margin-right: 5px;
+margin-right: 4px;
 }
 .social-section .img{
 width: 25px;
@@ -159,5 +159,8 @@ font-size: 1rem;
   .project-features{
     width: 50%;
     margin-top: 20px;
+  }
+  .gallery-container h1{
+    font-size: 0.90rem;
   }
 }

@@ -19,6 +19,7 @@ const HamburgerMenu = () => {
             <li><a href="#aboutus">About</a></li>
             <li><Link to="/projects">Projects</Link></li>
             <li><a href="#footer">Contact</a></li>
+            <li><Link to="/gallery">Gallery</Link></li>
           </div>
         </div>
       </div>
